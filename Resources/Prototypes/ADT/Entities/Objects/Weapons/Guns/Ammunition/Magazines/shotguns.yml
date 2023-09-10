@@ -44,7 +44,7 @@
     layers:
     - state: slug
       map: ["enum.GunVisualLayers.Base"]
-    - state: mag-1
+    - state: mag-2
       map: ["enum.GunVisualLayers.Mag"]
 
 - type: entity
